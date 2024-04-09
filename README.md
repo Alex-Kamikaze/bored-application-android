@@ -1,4 +1,4 @@
-#Bored Application for Android
+# Bored Application for Android
 Приложение, которое подсказывает пользователю чем заняться, если ему скучно
 
 ## Использованные технологии
